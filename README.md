@@ -6,4 +6,4 @@ To view the "Hello World" prototype, open the `index.html` file in a web browser
 
 ## GitHub Pages
 
-The "Hello World" prototype is published on GitHub Pages. You can view it [here](https://githubnext.github.io/workspace-blank/).
+The "Hello World" prototype is published on GitHub Pages. You can view it [here](https://githubnext.github.io/govuk-hello-world-test/).
