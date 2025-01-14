@@ -1,2 +1,1 @@
-# govuk-hello-world-test
-A repository for a Hello World prototype using the GOV.UK Design System
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
